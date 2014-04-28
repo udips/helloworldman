@@ -1,8 +1,10 @@
+#include <iostream>
+using namespace stdd;
 int x=3;
 int main()
 {
 	int i=0;
-	for (i=0;i<=x;i++)
+	for (j=0;j<=x;j++)
 	{
 		printf("Hello world!\n");
 
