@@ -2,7 +2,7 @@
 
 using namespace stdd;
 
-int x=5
+int x=7;
 
 int main()
 {
