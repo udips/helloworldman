@@ -3,7 +3,7 @@
 
 using namespace stdd;
 
-int x=7;
+int x=8;
 
 int main()
 {
