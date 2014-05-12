@@ -7,6 +7,6 @@ int x=8;
 
 int main()
 {
-for (int j=0; j<5;j++)
+for (int j=0; j<x;j++)
 	cout<<j;
 }
