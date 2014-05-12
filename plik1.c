@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<iostream>
-
+/////////////////////
 using namespace stdd;
 
 int x=9;
