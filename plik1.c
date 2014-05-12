@@ -10,3 +10,7 @@ int main()
 for (int j=0; j<5;j++)
 	cout<<j;
 }
+int powieksz (int a)
+{
+return a+1;
+}
